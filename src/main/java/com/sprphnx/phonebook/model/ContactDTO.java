@@ -5,6 +5,10 @@ public class ContactDTO {
 	String name;
 	String phoneNumber;
 	
+	public ContactDTO() {
+		super();
+	}
+
 	public ContactDTO(String name, String phoneNumber) {
 		super();
 		this.name = name;
