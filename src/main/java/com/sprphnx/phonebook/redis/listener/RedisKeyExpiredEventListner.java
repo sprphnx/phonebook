@@ -1,4 +1,4 @@
-package com.sprphnx.phonebook.redis.config;
+package com.sprphnx.phonebook.redis.listener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
